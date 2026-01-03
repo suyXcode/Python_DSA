@@ -10,7 +10,7 @@ This guide helps you quickly analyze time complexity by recognizing common patte
 |--------|--------------|-----------------|
 | Single Loop | `for (int i = 0; i < n; i++)` | O(n) |
 | Nested Loops | Two loops from 0 to n | O(n²) |
-| Triple Nested Loops | Three loops from 0 to n | O(n³) |
+| Triple Nested Loops | Three loops  | O(n³) |
 | Loop with Increment | `for (int i = 1; i < n; i *= 2)` | O(log n) |
 | Loop with Decrement | `for (int i = n; i > 0; i /= 2)` | O(log n) |
 
