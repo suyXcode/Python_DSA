@@ -25,7 +25,7 @@ This repository is designed to help understand core concepts, analyze time and s
 ---
 
 ## 📂 Folder Structure
-
+```
 DSA/
 ├── Arrays/
 ├── Strings/
@@ -40,6 +40,7 @@ DSA/
 ├── DP/
 ├── Greedy/
 └── Backtracking/
+```
 
 Each folder contains:
 - Problem description
@@ -106,6 +107,9 @@ Contributions are welcome!
 ---
 
 ## 👨‍💻 Author
-Suyash Singh  
+**Suyash Singh** 
+```
 🔗 GitHub: https://github.com/suyXcode
 🌐 Portfolio: https://suyxcode.netlify.app
+```
+
