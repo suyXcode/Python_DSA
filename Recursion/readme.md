@@ -45,15 +45,15 @@
 39. Write a recursive program to find the sum of natural numbers between two given numbers.  
 40. Write a recursive function to print the digits of a number in reverse order.  
 41. Write a recursive function to find the nth term of a geometric progression.  
-43. Write a recursive program to calculate the sum of squares of first N natural numbers.  
-44. Write a recursive program to calculate the sum of cubes of first N natural numbers.  
-45. Write a recursive function to check whether all digits of a number are even.  
-46. Write a recursive function to find the HCF (Highest Common Factor) of two numbers.  
-47. Write a recursive function to calculate the length of a string without using `len()`.  
-48. Write a recursive program to count uppercase letters in a string.  
-49. Write a recursive program to count lowercase letters in a string.  
-50. Write a recursive program to print the elements of a linked list (conceptually).  
-51. Write a recursive function to generate the first N terms of the Fibonacci sequence.
+42. Write a recursive program to calculate the sum of squares of first N natural numbers.  
+43. Write a recursive program to calculate the sum of cubes of first N natural numbers.  
+44. Write a recursive function to check whether all digits of a number are even.  
+45. Write a recursive function to find the HCF (Highest Common Factor) of two numbers.  
+46. Write a recursive function to calculate the length of a string without using `len()`.  
+47. Write a recursive program to count uppercase letters in a string.  
+48. Write a recursive program to count lowercase letters in a string.  
+49. Write a recursive program to print the elements of a linked list (conceptually).  
+50. Write a recursive function to generate the first N terms of the Fibonacci sequence.
 
 ---
 
